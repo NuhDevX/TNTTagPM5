@@ -1,7 +1,7 @@
 name: TNTTag
-version: 0.0.4
-api: 4.0.0
-author: cooldogedev
+version: 0.0.5
+api: [4.0.0, 5.0.0]
+author: cooldogedev, NuhDev
 main: cooldogedev\TNTTag\TNTTag
 website: https://github.com/cooldogedev/TNTTag
 description: "TNTTag minigame"
